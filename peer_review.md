@@ -1,7 +1,7 @@
-## Project Reviewed: Brett Neely's Medical Cost Dataset / regression
-## Notebook: https://github.com/bncodes19/ml-regression-neely/blob/main/regression_neely.ipynb
-## Reviewer: David Rodriguez-Mayorquin
-## Date: April 6, 2025
+### Project Reviewed: Brett Neely's Medical Cost Dataset / regression
+### Notebook: https://github.com/bncodes19/ml-regression-neely/blob/main/regression_neely.ipynb
+### Reviewer: David Rodriguez-Mayorquin
+### Date: April 6, 2025
 
 
 ## *1. Clarity & Organization*
